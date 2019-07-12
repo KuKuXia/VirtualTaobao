@@ -1,6 +1,6 @@
 *.bak
 *.egg-info
-/*.*
+.vscode/*
 virtualTBtopk.py
 __pycache__/
 virtualTB/__pycache__/
